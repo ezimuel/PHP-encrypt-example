@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zendframework/zend-filter": ">=2.2",
+        "Zendframework/zend-crypt" : ">=2.2"
+    }
+}
